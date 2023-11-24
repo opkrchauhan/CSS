@@ -1,0 +1,29 @@
+/*  less priority of Universal selector;
+*{
+    color: #000000;
+} */
+/* #to_coding{
+    color:green;
+}
+h1{
+    color:red;
+} */
+
+/* p{
+    color: blueviolet;
+} */
+
+/* h2,h3,h4,h5,h6{
+    color:blue;
+}
+
+.article{
+    color:blue;
+} */
+
+#first p{
+    color:darkseagreen;
+}
+p{
+    color:red;
+}

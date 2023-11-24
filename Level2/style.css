@@ -1,0 +1,49 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+#first{
+    color: black;
+    background-color:red;
+}
+#second{
+    color:black;
+    background-color:yellow;
+
+}
+
+button{
+    color: black;
+    background-color:palegreen;
+} */
+
+/* #first{
+    background-color:rgb(255, 0, 0);
+}
+#second{
+    background-color:rgb(0,255,0);
+}
+
+#third{
+    background-color:rgb(0,0,255);
+}
+
+#fourth{
+    background-color:rgb(29,133,48);
+} */
+
+#first{
+    background-color:#fff;
+}
+
+#second{
+    background-color:#d30707;
+}
+
+#third{
+    background-color:#07f3f354;
+}
+
+#fouth{
+    background-color:#02f3d354;
+}
